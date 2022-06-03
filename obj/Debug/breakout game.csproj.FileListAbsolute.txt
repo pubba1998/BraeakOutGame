@@ -1,0 +1,12 @@
+C:\Users\pubudu perera\Desktop\breakout game\bin\Debug\breakout game.exe.config
+C:\Users\pubudu perera\Desktop\breakout game\bin\Debug\breakout game.exe
+C:\Users\pubudu perera\Desktop\breakout game\bin\Debug\breakout game.pdb
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.csproj.AssemblyReference.cache
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.csproj.SuggestedBindingRedirects.cache
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout_game.Form1.resources
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout_game.Properties.Resources.resources
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.csproj.GenerateResource.cache
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.csproj.CoreCompileInputs.cache
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.exe
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout game.pdb
+C:\Users\pubudu perera\Desktop\breakout game\obj\Debug\breakout_game.Form2.resources
